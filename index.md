@@ -1,4 +1,4 @@
-# Projects
+# Title: Music From Different Sources
 
 ## Members:
 Jeffrey Kaufmann, Jeka8973@colorado.edu
@@ -6,7 +6,7 @@ Cristian Mendivil, crme7282@colorado.edu
 David Skrenta, dskrenta@gmail.com
 
 
-### Title: Music From Different Sources
+### Projects
 Part 2:[Music From Different Sources Plan](https://docs.google.com/document/d/12WC9w01Nyhcg9ki_fDFLli3TOBmdW46y8QF-nGxx_IY)
 
 Part 3:[Design Research](https://docs.google.com/document/d/1qFawQG8eONPIkcGtbhFkNvFg2u2ZXtgCou_Ac43q1yA)
