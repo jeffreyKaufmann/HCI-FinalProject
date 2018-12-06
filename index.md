@@ -2,7 +2,9 @@
 
 ## Members:
 Jeffrey Kaufmann, Jeka8973@colorado.edu
+
 Cristian Mendivil, crme7282@colorado.edu
+
 David Skrenta, dskrenta@gmail.com
 
 
