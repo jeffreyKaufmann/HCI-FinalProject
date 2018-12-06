@@ -1,17 +1,10 @@
 # Projects
-1. Part 1 :[Link](https://docs.google.com/document/d/12WC9w01Nyhcg9ki_fDFLli3TOBmdW46y8QF-nGxx_IY/edit)
-# Header 1
-## Header 2
-### Header 3
+1. Part 2 :[Music From Different Sources Plan](https://docs.google.com/document/d/12WC9w01Nyhcg9ki_fDFLli3TOBmdW46y8QF-nGxx_IY)
 
-- Bulleted
-- List
+2. Part 3:[Design Research](https://docs.google.com/document/d/1qFawQG8eONPIkcGtbhFkNvFg2u2ZXtgCou_Ac43q1yA)
 
-1. Numbered
-2. List
+3. Part 4: [Paper Prototype](https://docs.google.com/document/d/1L0pBlVyiZfG8u6eGSJQqvwWg1fhR9kc7MLUn_YGUBMQ)
 
-**Bold** and _Italic_ and `Code` text
+4. Part 5:
 
-[Link](url) and ![Image](src)
-```
-
+5. Part 6:
