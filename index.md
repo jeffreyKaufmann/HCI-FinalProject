@@ -17,4 +17,6 @@ Part 4:[Paper Prototype](https://docs.google.com/document/d/1L0pBlVyiZfG8u6eGSJQ
 
 Part 5:[Usuability & Heurisitc Tests](https://docs.google.com/document/d/1-jRhyyciiw8WtecQstMoFzbk1lbY2tsccM6JYhdHPus/edit)
 
-Part 6:
+Part 6:[Final Prototype & Storyboard](https://docs.google.com/document/d/1YmgWnY9E9bWIw3iCkOQ2SryiidarFffZNvF8kB1aR_8/edit?usp=sharing)
+
+Part 7: [Website and Video](https://drive.google.com/file/d/19gjbiTk5vII7NK5cnUEhN11_Lh6CyPKZ/view?usp=sharing)
